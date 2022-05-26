@@ -61,7 +61,6 @@ function fontSize (userId, fontSize){
     userID.style = `font-size: ${fontSize}px`
 
 }
-// fontSize("thing-c", 22) 
 // fontSize("thing-1", 22) 
 
 
